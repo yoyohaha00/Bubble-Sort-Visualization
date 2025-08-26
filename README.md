@@ -1,1 +1,3 @@
 # Bubble-Sort-Visualization
+This project demonstrates the Bubble Sort algorithm using animated visualization.
+You can see how elements are compared and swapped step by step.
